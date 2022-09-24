@@ -1,5 +1,5 @@
 baseURL = "https://shilpa10p.github.io/"
-title = "Puppet"
+title = "Shilpa Pothapragada"
 
 theme = "puppet"
 themesDir = "themes"
@@ -69,8 +69,8 @@ weight = 100
 
 
 [params]
-author = "Puppet"
-description = "A simple and clean theme for Hugo"
+author = "Shilpa Pothapragada"
+description = "Thoughts on Science"
 keywords = "blog,developer,personal"
 img_home = "/img/home-bg.jpg"
 img_404 = "/img/404-bg.jpg"
@@ -87,28 +87,6 @@ bio = "a personal website"
 
 [params.social]
 rss_enable = true
-twitter = "johndoe"
-facebook = "johndoe"
-zhihu = "johndoe"
-weibo = "johndoe"
-github = "johndoe"
-linkedin = "johndoe"
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
-
-[[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
-
-# See https://giscus.app/
-[params.giscus]
-enable = true
-repo = "roninro/hugo-theme-puppet"
-repo_id = "R_kgDOHuvyhw"
-category = "General"
-category_id = "DIC_kwDOHuvyh84CQjDo"
-input_position = "top"
-theme = "light_tritanopia"
-lang = "en"
+twitter = "shilpap_"
+github = "shilpa10p"
+linkedin = "shilpapothapragada"
